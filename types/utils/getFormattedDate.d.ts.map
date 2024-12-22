@@ -1,0 +1,1 @@
+{"version":3,"file":"getFormattedDate.d.ts","sourceRoot":"","sources":["../../src/utils/getFormattedDate.ts"],"names":[],"mappings":"AAkBA,MAAM,WAAW,iBAAiB;IACjC,oFAAoF;IACpF,gBAAgB,CAAC,EAAE,MAAM,CAAC;IAC1B,0DAA0D;IAC1D,QAAQ,CAAC,EAAE,OAAO,CAAC;CACnB;AAED;;;;;;GAMG;AACH,wBAAgB,gBAAgB,CAC/B,IAAI,EAAE,IAAI,EACV,OAAO,GAAE,OAAO,CAAC,iBAAiB,CAAM,GACtC,MAAM,CAoBR"}
